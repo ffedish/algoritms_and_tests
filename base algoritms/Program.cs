@@ -8,6 +8,10 @@ namespace Test1
 {
     public class Program
     {
+        public static int[] TwoArr(int[] arr1, int[] arr2)
+        {
+            return null;
+        }
         public static List<int> Prime(int n)
         {
             List<int> listOfPrimal = new List<int>();
