@@ -1,0 +1,11 @@
+C:\Users\Денис\Desktop\TestProject\algoritms_and_tests\base algoritms\bin\Debug\netcoreapp3.1\base algoritms.exe
+C:\Users\Денис\Desktop\TestProject\algoritms_and_tests\base algoritms\bin\Debug\netcoreapp3.1\base algoritms.deps.json
+C:\Users\Денис\Desktop\TestProject\algoritms_and_tests\base algoritms\bin\Debug\netcoreapp3.1\base algoritms.runtimeconfig.json
+C:\Users\Денис\Desktop\TestProject\algoritms_and_tests\base algoritms\bin\Debug\netcoreapp3.1\base algoritms.runtimeconfig.dev.json
+C:\Users\Денис\Desktop\TestProject\algoritms_and_tests\base algoritms\bin\Debug\netcoreapp3.1\base algoritms.dll
+C:\Users\Денис\Desktop\TestProject\algoritms_and_tests\base algoritms\bin\Debug\netcoreapp3.1\base algoritms.pdb
+C:\Users\Денис\Desktop\TestProject\algoritms_and_tests\base algoritms\obj\Debug\netcoreapp3.1\base algoritms.csprojAssemblyReference.cache
+C:\Users\Денис\Desktop\TestProject\algoritms_and_tests\base algoritms\obj\Debug\netcoreapp3.1\base algoritms.AssemblyInfoInputs.cache
+C:\Users\Денис\Desktop\TestProject\algoritms_and_tests\base algoritms\obj\Debug\netcoreapp3.1\base algoritms.AssemblyInfo.cs
+C:\Users\Денис\Desktop\TestProject\algoritms_and_tests\base algoritms\obj\Debug\netcoreapp3.1\base algoritms.dll
+C:\Users\Денис\Desktop\TestProject\algoritms_and_tests\base algoritms\obj\Debug\netcoreapp3.1\base algoritms.pdb

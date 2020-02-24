@@ -8,11 +8,10 @@ namespace Test1
 {
     class Program
     {
-        static List<uint> Main(string[] args)
+        public static List<int> Prime(int n)
         {
-            uint n = Convert.ToUInt32(Console.ReadLine());
-            List<uint> listOfPrimal = new List<uint>();
-            for (uint i = 2; i * i <= n; i++)
+            List<int> listOfPrimal = new List<int>();
+            for (int i = 2; i * i <= n; i++)
             {
                 if (n % i == 0)
                 {
@@ -28,6 +27,14 @@ namespace Test1
                 listOfPrimal.Add(n);
             }
             return listOfPrimal;
+        }
+        static void Main(string[] args)
+        {
+            List<int> list = Prime(Convert.ToInt32(Console.ReadLine()));
+            for(int i = 0; i < list.Count(); i++)
+            {
+                Console.Write(list[i] + " ");
+            }
         }
     }
 }
