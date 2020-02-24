@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Test1
 {
-    class Program
+    public class Program
     {
         public static List<int> Prime(int n)
         {
