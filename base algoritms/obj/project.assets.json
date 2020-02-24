@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Денис\\.nuget\\packages\\": {}
+    "C:\\Users\\Фад\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Денис\\Desktop\\TestProject\\algoritms_and_tests\\base algoritms\\base algoritms.csproj",
+      "projectUniqueName": "C:\\Users\\Фад\\source\\repos\\base algoritms\\algoritms_and_tests\\base algoritms\\base algoritms.csproj",
       "projectName": "base algoritms",
-      "projectPath": "C:\\Users\\Денис\\Desktop\\TestProject\\algoritms_and_tests\\base algoritms\\base algoritms.csproj",
-      "packagesPath": "C:\\Users\\Денис\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Денис\\Desktop\\TestProject\\algoritms_and_tests\\base algoritms\\obj\\",
+      "projectPath": "C:\\Users\\Фад\\source\\repos\\base algoritms\\algoritms_and_tests\\base algoritms\\base algoritms.csproj",
+      "packagesPath": "C:\\Users\\Фад\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Фад\\source\\repos\\base algoritms\\algoritms_and_tests\\base algoritms\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Денис\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Фад\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
