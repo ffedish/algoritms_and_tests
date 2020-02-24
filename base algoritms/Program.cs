@@ -8,11 +8,11 @@ namespace Test1
 {
     class Program
     {
-        static List<uint> Main(string[] args)
+        static List<int> Main(string[] args)
         {
-            uint n = Convert.ToUInt32(Console.ReadLine());
-            List<uint> listOfPrimal = new List<uint>();
-            for (uint i = 2; i * i <= n; i++)
+            int n = Convert.ToInt32(Console.ReadLine());
+            List<int> listOfPrimal = new List<int>();
+            for (int i = 2; i * i <= n; i++)
             {
                 if (n % i == 0)
                 {
